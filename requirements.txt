@@ -1,0 +1,7 @@
+torch
+opencv-python
+numpy
+ultralytics
+pymysql
+cryptography
+websockets
