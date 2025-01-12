@@ -10,7 +10,7 @@ source .venv/bin/activate
 
 # windows
 ```bash
-.venv/Script/activate
+.venv/Scripts/activate
 ```
 
 # 依赖安装
